@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://hmritm.ac.in/marc2018/</loc>
+  <lastmod>2018-06-11T17:46:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/index.html</loc>
+  <lastmod>2018-06-11T17:46:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/aboutCom.html</loc>
+  <lastmod>2018-06-11T17:46:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/assets/files/Sponsor%20Letter.pdf</loc>
+  <lastmod>2018-06-11T17:46:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS1_session.html</loc>
+  <lastmod>2018-06-11T17:46:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS2_session.html</loc>
+  <lastmod>2018-06-11T17:46:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS3_session.html</loc>
+  <lastmod>2018-06-11T17:46:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS4_session.html</loc>
+  <lastmod>2018-06-11T17:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS5_session.html</loc>
+  <lastmod>2018-06-11T17:46:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS6_session.html</loc>
+  <lastmod>2018-06-11T17:46:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS7_session.html</loc>
+  <lastmod>2018-06-11T17:46:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/SS8_session.html</loc>
+  <lastmod>2018-06-11T17:46:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/assets/files/Brochure.pdf</loc>
+  <lastmod>2018-06-11T17:46:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/assets/files/copyright.pdf</loc>
+  <lastmod>2018-06-11T17:46:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hmritm.ac.in/marc2018/Payment_Status.html</loc>
+  <lastmod>2018-06-11T17:46:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
